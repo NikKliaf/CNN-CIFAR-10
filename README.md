@@ -59,7 +59,7 @@ A comparative performance table of the implemented methods:
     
 2.  **Download Dependencies:**
     ```bash
-    pip install torch torchvision matplotlib pillow numpy
+    pip install torch torchvision matplotlib pillow numpy sklearn
     ```
 3. **Optional: Install CUDA drivers for NVIDIA GPU:** <br>
     [NVIDIA CUDA Toolkit](https://developer.nvidia.com/cuda-downloads)
